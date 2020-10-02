@@ -1,0 +1,17 @@
+{
+	"name": "lingua-switch",
+	"version": "0.0.1",
+	"description": "Lingua Switch allows you to switch between multiple languages in your projects using your own translations.",
+	"main": "dist/translate.js",
+	"types": "dist/translate.d.ts",
+	"scripts": {
+		"build": "tsc"
+	},
+	"author": "ttonya",
+	"keywords": [
+		"translation",
+		"translate",
+		"languages"
+	],
+	"license": "ISC"
+}

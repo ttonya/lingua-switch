@@ -1,4 +1,4 @@
-# date-ts
+# lingua-switch
 
 Lingua Switch allows you to switch between multiple languages in your projects using your own translations.
 
@@ -59,7 +59,7 @@ Use "setLocale" method to change language:
 ```javascript
 import { translate } from "lingua-switch";
 
-setLocale("ru"); // returns Successfull
+setLocale("ru");
 
 <p>{translate("common.success")}</p>; // returns Успешно
 ```
